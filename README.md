@@ -1532,17 +1532,17 @@ software engineer, and to be aware of certain technologies and algorithms, so yo
 
 - ### Unix command line tools
     - I filled in the list below from good tools.
-    - [ ] bash
-    - [ ] cat
-    - [ ] grep
-    - [ ] sed
-    - [ ] awk
-    - [ ] curl or wget
-    - [ ] sort
-    - [ ] tr
-    - [ ] uniq
-    - [ ] [strace](https://en.wikipedia.org/wiki/Strace)
-    - [ ] [tcpdump](https://danielmiessler.com/study/tcpdump/)
+    - [x] bash
+    - [x] cat
+    - [x] grep
+    - [x] sed
+    - [x] awk
+    - [x] curl or wget
+    - [x] sort
+    - [x] tr
+    - [x] uniq
+    - [x] [strace](https://en.wikipedia.org/wiki/Strace)
+    - [x] [tcpdump](https://danielmiessler.com/study/tcpdump/)
 
 - ### Information theory (videos)
     - [ ] [Khan Academy](https://www.khanacademy.org/computing/computer-science/informationtheory)
