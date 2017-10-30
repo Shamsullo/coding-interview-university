@@ -1760,7 +1760,7 @@ software engineer, and to be aware of certain technologies and algorithms, so yo
 - ### k-D Trees
     - great for finding number of points in a rectangle or higher dimension object
     - a good fit for k-nearest neighbors
-    - [ ] [Kd Trees (video)](https://www.youtube.com/watch?v=W94M9D_yXKk)
+    - [x] [Kd Trees (video)](https://www.youtube.com/watch?v=W94M9D_yXKk)
     - [ ] [kNN K-d tree algorithm (video)](https://www.youtube.com/watch?v=Y4ZgLlDfKDg)
 
 - ### Skip lists
