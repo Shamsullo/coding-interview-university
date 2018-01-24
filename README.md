@@ -1846,7 +1846,7 @@ software engineer, and to be aware of certain technologies and algorithms, so yo
     You want to get hired in this century, right?
 
 - [ ] **Union-Find**
-    - [ ] [Overview](https://www.coursera.org/learn/data-structures/lecture/JssSY/overview)
+    - [x] [Overview](https://www.coursera.org/learn/data-structures/lecture/JssSY/overview)
     - [ ] [Naive Implementation](https://www.coursera.org/learn/data-structures/lecture/EM5D0/naive-implementations)
     - [ ] [Trees](https://www.coursera.org/learn/data-structures/lecture/Mxu0w/trees)
     - [ ] [Union By Rank](https://www.coursera.org/learn/data-structures/lecture/qb4c2/union-by-rank)
